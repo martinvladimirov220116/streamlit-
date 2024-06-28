@@ -1,0 +1,4 @@
+__pycache__/
+src/emotion_detective_package/data/inference/__pycache__/data_ingestion.cpython-38.pyc
+/.vs
+src/emotion_detective_package/models/test thingy.ipynb
